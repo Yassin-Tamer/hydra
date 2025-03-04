@@ -37,7 +37,7 @@
     "@fontsource/noto-sans": "^5.1.0",
     "@hookform/resolvers": "^3.9.1",
     "@primer/octicons-react": "^19.9.0",
-    "@radix-ui/react-dropdown-menu": "^2.1.2",
+    "@radix-ui/react-dropdown-menu": "^2.1.6",
     "@reduxjs/toolkit": "^2.2.3",
     "@sentry/react": "^8.47.0",
     "@sentry/vite-plugin": "^2.22.7",
