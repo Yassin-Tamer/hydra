@@ -9396,10 +9396,10 @@ use-sync-external-store@^1.0.0:
   resolved "https://registry.yarnpkg.com/use-sync-external-store/-/use-sync-external-store-1.2.2.tgz#c3b6390f3a30eba13200d2302dcdf1e7b57b2ef9"
   integrity sha512-PElTlVMwpblvbNqQ82d2n6RjStvdSoNe9FG28kNfz3WiXilJm4DdNkEzRhCZuIDwY8U08WVihhGR5iRqAwfDiw==
 
-user-agents@^1.1.387:
-  version "1.1.387"
-  resolved "https://registry.yarnpkg.com/user-agents/-/user-agents-1.1.387.tgz#afc69da00b50eee7ffa17724890e755a6672b99f"
-  integrity sha512-EQ1tx80ucECUrw+mY/lI4lVQTEN7nYflGpuLwqZS6vXw+pfzHMnhKPwZN9NiR+Mo9QxmDeNmk+2ZDEvInsxrxw==
+user-agents@^1.1.446:
+  version "1.1.467"
+  resolved "https://registry.yarnpkg.com/user-agents/-/user-agents-1.1.467.tgz#76ec4c09ec68202e5301d0d42d9cf90532b59feb"
+  integrity sha512-y4Z9O7SXMPVT+23rGyMjc/Ny4g48xQvtZuZM3EwuR1/Y13JL4ECR3dTBhOUw3mlwOJAgr9fhnsAVHtXT/NS7tw==
   dependencies:
     lodash.clonedeep "^4.5.0"
 
